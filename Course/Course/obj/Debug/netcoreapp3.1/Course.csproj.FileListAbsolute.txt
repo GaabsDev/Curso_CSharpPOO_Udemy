@@ -1,0 +1,14 @@
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.AssemblyReference.cache
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\obj\Debug\netcoreapp3.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

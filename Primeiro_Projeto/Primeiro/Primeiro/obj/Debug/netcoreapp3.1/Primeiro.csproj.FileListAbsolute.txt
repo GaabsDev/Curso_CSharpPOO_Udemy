@@ -1,0 +1,14 @@
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+D:\GAP CTI LTDA\Desenvolvimento\GitHub\Curso_CSharpPOO_Udemy\Primeiro_Projeto\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
